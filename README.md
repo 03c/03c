@@ -1,11 +1,14 @@
 ### Chris Child
 
+🌐 My [blog](https://hardcopy.dev)
+
 💬 Ask me a question [here](https://github.com/christopherchild/christopherchild/issues)
 
-<img height="20" src="https://github.com/github/explore/blob/master/topics/twitter/twitter.png?raw=true"> Tweet me [here](https://twitter.com/cchild_)
-            
-            
+📧 chris.child 🤓 gmail.com
 
+<img height="20" src="https://github.com/github/explore/blob/master/topics/twitter/twitter.png?raw=true"> Tweet me [here](https://twitter.com/cchild_)
+
+            
 **Languages and Tools etc:**  
 <code><img height="35" src="https://github.com/github/explore/blob/master/topics/ruby/ruby.png?raw=true"></code>
 <code><img height="35" src="https://github.com/github/explore/blob/master/topics/rails/rails.png?raw=true"></code>
