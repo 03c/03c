@@ -6,7 +6,7 @@
 
 📧 chris.child 🤓 gmail.com
 
-<img height="20" src="https://github.com/github/explore/blob/master/topics/twitter/twitter.png?raw=true"> Tweet me [here](https://twitter.com/cchild_)
+<img height="20" src="https://github.com/github/explore/raw/main/topics/twitter/twitter.png"> Tweet me [here](https://twitter.com/cchild_)
 
             
 **Languages and Tools etc:**  
