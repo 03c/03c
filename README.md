@@ -2,7 +2,8 @@
 
 🌐 My [blog](https://hardcopy.dev)
 
-💬 Ask me a question [here](https://github.com/christopherchild/christopherchild/issues)
+💬 Ask me a question [here](https://github.com/03c/03c/issues)
+
 
 📧 chris.child 🤓 gmail.com
 
