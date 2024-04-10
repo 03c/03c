@@ -7,9 +7,6 @@
 📧 chris.child 🤓 gmail.com
 
 <img height="20" src="https://github.com/github/explore/raw/main/topics/twitter/twitter.png"> Tweet me [here](https://twitter.com/cchild_)
-
-💬 Mastodon <a rel="me" href="https://masto.id/@cc">[https://masto.id/@cc](https://masto.id/@cc)</a>
-
             
 **Languages and Tools etc:**  
 <code><img height="35" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png?raw=true"></code>
