@@ -7,7 +7,6 @@
 Writing about the things I had to spend too long debugging.
 
 [![Blog](https://img.shields.io/badge/hardcopy.dev-blog-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white)](https://hardcopy.dev)
-[![Mastodon](https://img.shields.io/badge/@cc-mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://masto.id/@cc)
 [![Twitter](https://img.shields.io/badge/@cchild__-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cchild_)
 
 </div>
@@ -22,15 +21,25 @@ When I'm not at a keyboard I'm probably tinkering with mechanical keyboards, sel
 
 ---
 
-### Current projects
+### Projects
+
+#### Live
 
 | Project | What it is | Tech |
 |---|---|---|
-| [**WearAmp**](https://github.com/03c/WearAmp) | PlexAmp client for Wear OS | `Kotlin` |
-| [**wordz**](https://github.com/03c/wordz) | Word game | `TypeScript` |
-| [**jigsaw**](https://github.com/03c/jigsaw) | Jigsaw puzzle app | `TypeScript` |
-| [**hardcopy.dev**](https://github.com/03c/hardcopy.dev) | My personal blog | `JavaScript` `Remix` |
-| [**nix-config**](https://github.com/03c/nix-config) | NixOS / home-manager config | `Nix` |
+| [**Spanners**](https://hardcopy.dev/projects#spanners) | Developer utilities — JSON/SQL formatters, Base64, GUID gen, color picker, and more | `React Router v7` `TypeScript` `Tailwind` `Cloudflare Workers` |
+| [**StubKit**](https://hardcopy.dev/projects#stubkit) | Instant HTTP mock responses for testing error handling and timeouts | `React Router v7` `TypeScript` `Tailwind` `Cloudflare Workers` |
+| [**Hardcopy**](https://hardcopy.dev/projects#hardcopy) | This blog — statically generated with React Router v7, zero client-side JS | `React Router v7` `TypeScript` `Tailwind` `Cloudflare Pages` |
+
+#### In Development
+
+| Project | What it is | Tech |
+|---|---|---|
+| [**WearAmp**](https://hardcopy.dev/projects#wearamp) | Plex on your wrist — browse and stream music from Wear OS | `Kotlin` `Wear OS` `Plex API` |
+| [**VeryShort**](https://hardcopy.dev/projects#veryshort) | URL shortener with custom short links and Auth0 auth | `.NET 9` `Blazor` `C#` `EF` `MySQL` |
+| [**Routinee**](https://hardcopy.dev/projects#routinee) | Customisable routine and habit tracker with analytics | `React Router v7` `TypeScript` `Cloudflare D1` `Drizzle` |
+
+**[&rarr; All projects on hardcopy.dev](https://hardcopy.dev/projects)**
 
 ---
 
